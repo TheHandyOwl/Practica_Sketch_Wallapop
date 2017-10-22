@@ -29,6 +29,9 @@ He revisado cómo entra en la previsualización.
 - El tercer enlace parece que no carga la 'Splash Screen', aunque es el enlace final.
 
 Adjunto los 3 enlaces, aunque mejor entrar en el primero, que igualmente redireccionará al tercero:
+
 [Diseño Interactivo en Marvel - Enlace 1](https://marvelapp.com/10g32706/ "Diseño Interactivo en Marvel - Enlace 1")
+
 [Diseño Interactivo en Marvel - Enlace 2](https://marvelapp.com/10g32706/screen/33828021 "Diseño Interactivo en Marvel - Enlace 2")
+
 [Diseño Interactivo en Marvel - Enlace 3](https://marvelapp.com/10g32706/screen/33812373 "Diseño Interactivo en Marvel - Enlace 3")
